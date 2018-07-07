@@ -6,7 +6,7 @@ User is able to input name of desired pokemon, upon click search button, the use
 
 ## How It's Made:
 
-**Tech used:
+##Tech used:
 *HTML  
 *jQuery, JS
 *CSS
