@@ -6,14 +6,14 @@ User is able to input name of desired pokemon, upon click search button, the use
 
 ## How It's Made:
 
-**Tech used: 
+**Tech used:** 
 *HTML  
 *jQuery, JS
 *CSS
 
 
 ## What I learned:
-The more practice I have with writing JQuery the more underrstnading it becomes and working with api's it's imortant to make sure variables are consistent. 
+The more practice I have with writing JQuery the more uunderstanding it becomes, as with working with api's it's important to make sure variables stay consistent. 
 
 
 
